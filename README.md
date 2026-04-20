@@ -31,7 +31,7 @@ of making data actually trustworthy in production.
 
 ## Active projects
 
-**[ercot-lakehouse-demo]([[link](https://github.com/gdcur/ercot-plan-ranker)])** — A transparent, runnable pipeline that 
+**[ercot-plan-ranker](https://github.com/gdcur/ercot-plan-ranker)** — A transparent, runnable pipeline that 
 simulates and ranks Texas electricity plans against realistic usage profiles 
 and weather scenarios. Portfolio-friendly starting point for a 
 production-style lakehouse. Roadmap includes dbt, Airflow, 
