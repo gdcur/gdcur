@@ -37,7 +37,7 @@ and weather scenarios. Portfolio-friendly starting point for a
 production-style lakehouse. Roadmap includes dbt, Airflow, 
 Postgres Bronze/Silver/Gold layers.
 
-**xml-drift-lakehouse(https://github.com/gdcur/xml-drift-lakehouse.git)** (coming soon) — A generic open-source toolkit for 
+**[xml-drift-lakehouse](https://github.com/gdcur/xml-drift-lakehouse.git)** (coming soon) — A generic open-source toolkit for 
 ingesting, parsing, and modeling XML-based data sources into lakehouse 
 architectures. Designed to be portable across industries.
 
