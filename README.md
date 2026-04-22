@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Gianfranco De Curtis - Senior Data Engineer
 
 20+ years building production-grade data pipelines, lakehouse architectures, 
-and analytics platforms across oil and gas, and other industries.
+and analytics platforms across energy, finance and enterprise domains.
 
 Most of my work lives at the intersection of complex data sources, 
 cloud-native AWS infrastructure, and the unglamorous but critical work 
